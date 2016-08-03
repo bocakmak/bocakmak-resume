@@ -12,10 +12,60 @@
 
 :**SOCIAL**: `LinkedIn   <https://www.linkedin.com/in/bocakmak>`_ | `Twitter <https://www.twitter.com/bocakmak>`_ | `GitHub <https://github.com/bocakmak>`_
 
-
 **************
 **EXPERIENCE**
 **************
+
+**GoGoTech II, LLC**   | New York, NY | *2012 - 2015*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+--------------------
+**Python Developer**
+--------------------
+
+:**Languages**:
+  *Python* | *PHP* | *SQL* | *XML* | *JavaScript* | *CSS* | *HTML*
+
+
+:**Libraries**:
+  *BeautifulSoup* | *webapp2* | *Bootstrap* | *AngularJS*
+
+--------------------
+
+**Responsibilities**
+
+* Architect automated systems for synchronizing over 1 million Google Text Ads with in-house product inventory data using Python and XML.
+* Develop front-end interfaces with HTML5, AngularJS and Bootstrap for providing statistics and insight into marketing channel sales conversions to stake holders.
+* Use Python to empower brand managers to control their inventory on third party retail sites.
+* Create configuration interfaces to provide stakeholders the ability to customize product inventory feed output.
+* Validate SEO performance and implementation using web crawling and screen scraping.
+* Streamline Google webmaster account setup processes by using Python and Google APIs.
+* Prototype personalized product display applications in Python.
+
+
+**GoGoTech, Inc.** | New York, NY | *2010 - 2012*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+------------------------------
+**Director of Natural Search**
+------------------------------
+
+:**Languages**:
+  *PHP* | *SQL* | *CSS* | *HTML*
+
+
+:**Libraries**:
+  *Requests* | *curl* | *Bootstrap* | *WordPress*
+
+--------------------
+
+**Responsibilities**
+
+* Create scalable SEO strategies to reach 25% year over year growth goals.
+* Manage a remote content team responsible for generating SEO on-site and off-site content.
+* Manage the setup and monitoring of Google and Bing webmaster tools accounts for 100+ domains.
+* Create revenue forecast models and reports to measure success across channels by brand by week.
+* Coordinate with UX and Technology departments to validate SEO implementation.
 
 
 **Yellowbook USA** | King of Prussia, PA | *2008 - 2010*
