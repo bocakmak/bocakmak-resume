@@ -13,7 +13,33 @@
 :**SOCIAL**: `LinkedIn   <https://www.linkedin.com/in/bocakmak>`_ | `Twitter <https://www.twitter.com/bocakmak>`_ | `GitHub <https://github.com/bocakmak>`_
 
 
+**************
+**EXPERIENCE**
+**************
 
+
+**Yellowbook USA** | King of Prussia, PA | *2008 - 2010*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+---------------
+**SEO Manager**
+---------------
+
+:**Languages**:
+  *PHP* | *SQL* | *CSS* | *HTML*
+
+
+:**Libraries**:
+  *Requests* | *curl* | *WordPress*
+
+--------------------
+
+**Responsibilities**
+
+* Develop small and medium sized SEO product offerings.
+* Drive all strategic initiatives for Yellowbook.com SEO.
+* Create tools in PHP, JavaScript, CSS, XML, and HTML for performance monitoring.
+  
 
 *****************
 **PROFICIENCIES**
