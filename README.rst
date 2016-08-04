@@ -16,6 +16,32 @@
 **EXPERIENCE**
 **************
 
+
+**AppNexus, Inc.**   | New York, NY | *2015 - Present*
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+--------------------------------
+**Sr. Python Software Engineer**
+--------------------------------
+
+:**Languages**:
+  *Python* | *Scala* | *SQL* | *SOQL* | *JavaScript* | *CSS* | *HTML*
+
+:**Libraries**:
+  *Pandas* | *Numpy* | *matplotlib* | *simple-salesforce* | *Flask* | *requests* | *pytest* | *Bootstrap* | *AngularJS* | *D3*
+
+--------------------
+
+**Responsibilities**
+
+* Develop applications in Python to automate the ETL process for legacy financial data.
+* Architect scalable applications for integrating new financial data and preserve trends.
+* Create data models in MySQL, Vertica and Python for optimized analytics and reporting.
+* Code front end applications using html, css, AngularJS and D3 to visualize systems performance.
+* Design and develop Python applications for automating revenue and business forecasting.
+* Create validation frameworks for preserving data integrity throughout the ETL process.
+
+
 **GoGoTech II, LLC**   | New York, NY | *2012 - 2015*
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
